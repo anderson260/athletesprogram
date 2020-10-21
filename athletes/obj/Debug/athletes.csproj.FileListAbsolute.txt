@@ -1,0 +1,7 @@
+P:\Digital\VS\Sam Anderson\athletes\bin\Debug\athletes.exe.config
+P:\Digital\VS\Sam Anderson\athletes\bin\Debug\athletes.exe
+P:\Digital\VS\Sam Anderson\athletes\bin\Debug\athletes.pdb
+P:\Digital\VS\Sam Anderson\athletes\obj\Debug\athletes.csprojAssemblyReference.cache
+P:\Digital\VS\Sam Anderson\athletes\obj\Debug\athletes.csproj.CoreCompileInputs.cache
+P:\Digital\VS\Sam Anderson\athletes\obj\Debug\athletes.exe
+P:\Digital\VS\Sam Anderson\athletes\obj\Debug\athletes.pdb
